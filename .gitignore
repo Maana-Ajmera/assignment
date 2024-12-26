@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Vite cache
+.vite/
+
+# IDE/editor directories
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
